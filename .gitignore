@@ -1,0 +1,8 @@
+# Java Build
+target/
+
+# MacOS Cache
+.DS_Store
+
+# VSCode Settings
+.vscode
